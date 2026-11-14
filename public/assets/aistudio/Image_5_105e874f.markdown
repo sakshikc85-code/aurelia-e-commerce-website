@@ -1,0 +1,263 @@
+---
+name: Aurelia Haute Horlogerie & Fashion
+colors:
+  surface: '#131313'
+  surface-dim: '#131313'
+  surface-bright: '#3a3939'
+  surface-container-lowest: '#0e0e0e'
+  surface-container-low: '#1c1b1b'
+  surface-container: '#201f1f'
+  surface-container-high: '#2a2a2a'
+  surface-container-highest: '#353534'
+  on-surface: '#e5e2e1'
+  on-surface-variant: '#d0c5af'
+  inverse-surface: '#e5e2e1'
+  inverse-on-surface: '#313030'
+  outline: '#99907c'
+  outline-variant: '#4d4635'
+  surface-tint: '#e9c349'
+  primary: '#f2ca50'
+  on-primary: '#3c2f00'
+  primary-container: '#d4af37'
+  on-primary-container: '#554300'
+  inverse-primary: '#735c00'
+  secondary: '#e7c35a'
+  on-secondary: '#3d2f00'
+  secondary-container: '#896c00'
+  on-secondary-container: '#fff3dc'
+  tertiary: '#bfcdff'
+  on-tertiary: '#082b72'
+  tertiary-container: '#97b0ff'
+  on-tertiary-container: '#254188'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#ffe088'
+  primary-fixed-dim: '#e9c349'
+  on-primary-fixed: '#241a00'
+  on-primary-fixed-variant: '#574500'
+  secondary-fixed: '#ffe08b'
+  secondary-fixed-dim: '#e7c35a'
+  on-secondary-fixed: '#241a00'
+  on-secondary-fixed-variant: '#584400'
+  tertiary-fixed: '#dbe1ff'
+  tertiary-fixed-dim: '#b4c5ff'
+  on-tertiary-fixed: '#00174b'
+  on-tertiary-fixed-variant: '#27438a'
+  background: '#131313'
+  on-background: '#e5e2e1'
+  surface-variant: '#353534'
+typography:
+  display-lg:
+    fontFamily: Bodoni Moda
+    fontSize: 72px
+    fontWeight: '400'
+    lineHeight: 80px
+    letterSpacing: -0.02em
+  display-lg-mobile:
+    fontFamily: Bodoni Moda
+    fontSize: 44px
+    fontWeight: '400'
+    lineHeight: 52px
+    letterSpacing: -0.01em
+  display-md:
+    fontFamily: Bodoni Moda
+    fontSize: 56px
+    fontWeight: '400'
+    lineHeight: 64px
+    letterSpacing: -0.02em
+  display-md-mobile:
+    fontFamily: Bodoni Moda
+    fontSize: 36px
+    fontWeight: '400'
+    lineHeight: 44px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Bodoni Moda
+    fontSize: 40px
+    fontWeight: '400'
+    lineHeight: 48px
+    letterSpacing: -0.01em
+  headline-lg-mobile:
+    fontFamily: Bodoni Moda
+    fontSize: 28px
+    fontWeight: '400'
+    lineHeight: 36px
+    letterSpacing: 0em
+  headline-md:
+    fontFamily: Bodoni Moda
+    fontSize: 28px
+    fontWeight: '500'
+    lineHeight: 36px
+    letterSpacing: 0em
+  headline-sm:
+    fontFamily: Bodoni Moda
+    fontSize: 22px
+    fontWeight: '500'
+    lineHeight: 30px
+    letterSpacing: 0.01em
+  title-md:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '500'
+    lineHeight: 26px
+    letterSpacing: 0.01em
+  title-sm:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '600'
+    lineHeight: 22px
+    letterSpacing: 0.02em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '300'
+    lineHeight: 28px
+    letterSpacing: 0.01em
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0.01em
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 18px
+    letterSpacing: 0.02em
+  label-caps:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 16px
+    letterSpacing: 0.15em
+  price-lg:
+    fontFamily: Inter
+    fontSize: 20px
+    fontWeight: '400'
+    lineHeight: 28px
+    letterSpacing: 0.04em
+  price-md:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+    letterSpacing: 0.03em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-desktop: 2.5rem
+  margin: 1.5rem
+  margin-tablet: 3rem
+  margin-desktop: 5rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 2rem
+  space-xl: 4rem
+---
+
+## Brand & Style
+
+The design system establishes a quiet luxury aesthetic inspired by prestigious high-fashion publications, bespoke atelier salons, and archival monographs. It strips away extraneous visual decoration in favor of expansive negative space, cinematic contrast, and meticulous typographic hierarchy. 
+
+### Emotional Tenets
+- **Quiet Authority:** Confident, deliberate, and uncluttered. Visual weight relies on scale and composition rather than ornament.
+- **Editorial Intimacy:** Evoking tactile heavyweight paper stocks, gallery vitrines, and curated private showings.
+- **Sartorial Precision:** Crisp hair-thin boundaries, restrained metallic accents, and unhurried browsing rhythms.
+
+### Visual Style
+A dark-mode high-contrast editorial minimalism. The canvas relies on obsidian depths, razor-thin structural borders, stark off-white text, and luminous champagne-gold accents reserved exclusively for moments of high intent and exquisite detail.
+
+## Colors
+
+The color palette centers on a disciplined range of monochromatic tones punctuated by precise measures of champagne gold.
+
+### Palette Architecture
+- **Primary Accent (`#D4AF37` / `#E5C158`):** Reserved for focal calls-to-action, curated badge accents, active status indicators, and subtle typographic highlights. Never flood large structural surfaces with gold; use it as an illuminating detail.
+- **Accent Hover / Pressed (`#F3E5AB` / `#C5A028`):** Fine-tuned for delicate interactions, offering a softened shimmer on hover and a grounded antique bronze on press.
+- **Canvas Base (`#0A0A0A`):** The primary backdrop across all viewports, providing a void that lets imagery and typography command focus.
+- **Elevated Surfaces (`#161616`):** Applied to cards, slide-out panels, quick-view drawers, sticky navigation, and modal viewports.
+- **Hairline Dividers & Secondary Surfaces (`#262626`):** Structural 1px division rules, muted frame borders, and inert input background states.
+- **Primary Typography (`#F5F5F5`):** High-readability warm off-white, preventing the visual vibration caused by pure hex white on dark backgrounds.
+- **Secondary / Supporting Copy (`#A3A3A3`):** Neutralized mid-tone for metadata, specifications, breadcrumbs, and inactive controls.
+
+## Typography
+
+The typographic tension pairs the classical, high-contrast vertical cadence of **Bodoni Moda** with the disciplined, modern legibility of **Inter**.
+
+### Execution Rules
+- **Bodoni Moda** is reserved exclusively for editorial titles, product names, collection titles, and seasonal pull-quotes. Italics should be used sparingly to denote artisanal craft, limited editions, or material compositions.
+- **Inter** handles all operational data: prices, technical dimensions, navigational elements, cart states, and long-form narrative copy. Use light (`300`) and regular (`400`) weights for body text to maintain an airy, effortless feel.
+- **Uppercase Tracking:** All `label-caps` elements (sub-headers, navigation links, filters, badge pills) must be styled in uppercase with deliberate tracking (`0.15em` / `letter-spacing: 0.15em`) to balance the high visual weight of headline serifs.
+- Numbers within pricing tables and checkout totals utilize tabular lining figures where applicable to preserve balance.
+
+## Layout & Spacing
+
+The layout philosophy mirrors archival print portfolios and high-end atelier catalogs, emphasizing generous gutters, asymmetric breathing room, and clear focal planes.
+
+### Grid Structure
+- **Desktop (12 Columns):** 12-column responsive fluid grid bounded by a max container width of `1600px`. Gutters scale to `2.5rem` (`40px`), with edge margins set at `5rem` (`80px`).
+- **Tablet (8 Columns):** 8-column fluid grid, `1.5rem` (`24px`) gutters, and `3rem` (`48px`) margins.
+- **Mobile (4 Columns):** 4-column fluid layout with `1rem` (`16px`) gutters and `1.5rem` (`24px`) margins to maximize vertical imagery while avoiding edge crowding.
+
+### Spacing Rhythm
+- **Micro Space (`space-xs`, `space-sm`):** Micro-arrangements within components (e.g., gap between product tag and name, icon-to-label spacing).
+- **Component Space (`space-md`, `space-lg`):** Padding within collection cards, form fields, and dropdown containers.
+- **Editorial Cadence (`space-xl`):** Inter-section gaps, collection feature transitions, and lookbook narrative breaks. Vertical separation between major thematic sections should never feel cramped; negative space is an active design element.
+
+## Elevation & Depth
+
+To preserve an authentic, flat luxury editorial sensibility, the design system rejects skeuomorphic diffuse drop shadows and multi-tiered blurred projections. Depth is achieved strictly through tonal layering and low-contrast perimeter definition.
+
+### Tonal Architecture
+- **Level 0 (Canvas):** `#0A0A0A` serves as the primary ground for page bodies and full-bleed photography.
+- **Level 1 (Panels & Cards):** `#161616` defines interactive card surfaces, flyouts, and drawer modules.
+- **Level 2 (Modals & Overlays):** `#1C1C1C` for centered dialogs, bespoke sizing modules, and cart flyouts.
+
+### Hairline Structuring
+Surfaces are differentiated using **1px hairline borders** colored `#262626`. When a card or panel hovers or activates, its perimeter subtly transitions from `#262626` to `#3D3D3D`, or `#D4AF37` if the state indicates selection.
+
+### Glass & Scrim Mechanics
+- Sticky headers and floating navigational docks employ a backdrop filter (`blur(16px)`) over an 85% alpha-channel ground (`rgba(10, 10, 10, 0.85)`), allowing high-fashion imagery to glide underneath without losing legibility.
+- Modals and drawers use an absolute `#000000` scrim with an 80% opacity (`rgba(0, 0, 0, 0.8)`), eliminating visual noise and focusing attention on the active layer.
+
+## Shapes
+
+The design system incorporates a balanced, architectural radius system calibrated at level `2` (8px base / `rounded-lg`).
+
+### Application Guidelines
+- **Interactive Controls (8px / `0.5rem`):** Buttons, standard text fields, product image containers, and floating pills retain an 8px radius to keep silhouettes crisp, contemporary, and grounded.
+- **Structural Containers (16px / `1rem`):** Modals, drawer corners, lookbook preview sheets, and contextual popovers scale up to 16px to soften containment boundaries without appearing playful or bubbly.
+- **Inner Nested Elements:** Always reduce radius proportionally to match parent containers using the formula `Radius_inner = Radius_outer - Padding` to maintain optical alignment.
+- **Pills / Badges:** Micro tags (such as "Exclusive", "Bespoke", or "Sold Out") use full 9999px pill shapes only when height does not exceed 24px, ensuring they function as typographic marks rather than primary buttons.
+
+## Components
+
+### Buttons
+- **Primary Editorial CTA:** Solid champagne gold (`#D4AF37`) background with near-black (`#0A0A0A`) text. Typeset in `label-caps` (`Inter`, 11px, bold, tracked `0.15em`). On hover, smoothly transitions to `#F3E5AB`. No drop shadows; relies on stark color contrast.
+- **Secondary Atelier Button:** Outlined transparent button featuring a 1px border of `#262626` with `#F5F5F5` text. On hover, background transitions to `#161616` and border illuminates to `#D4AF37`.
+- **Text Action:** Unbordered, featuring an underline offset by 6px with a 1px stroke in `#D4AF37`. On hover, the link shifts opacity from 100% to 75%.
+
+### Product Cards
+- Contained within an elevated surface (`#161616`) or displayed flat against `#0A0A0A` with a 1px `#262626` perimeter.
+- Image aspect ratio strictly defaults to `3:4` or `4:5` portrait editorial ratios.
+- Metadata is arranged cleanly below the image: category tag in `label-caps` (`#A3A3A3`), product name in `headline-sm` (`Bodoni Moda`), and price in `price-md` (`#F5F5F5`).
+- Quick-add or wishlist actions appear on hover with smooth 200ms opacity fades, avoiding jarring popovers.
+
+### Input Fields & Controls
+- **Text Inputs:** Height of 48px with an inset background of `#161616` and a baseline border of 1px `#262626`. Text in `#F5F5F5` with placeholder copy in `#A3A3A3`. On focus, the border shifts crisply to `#D4AF37` with no halo or glow ring.
+- **Checkboxes & Radios:** Minimal geometric controls bounded by 1px `#262626`. Checked state fills with `#D4AF37` bearing an `#0A0A0A` indicator mark.
+- **Quantity & Size Pickers:** Segmented horizontal controls bounded by hairline borders (`#262626`). Selected size triggers an inverse off-white fill (`#F5F5F5`) with near-black text (`#0A0A0A`), signifying clear physical presence.
+
+### Navigation & Drawers
+- **Global Header:** Minimalist height (`72px`), featuring clean category links (`label-caps`) with 32px lateral spacing. Floating state triggers the semi-transparent frosted charcoal scrim (`rgba(10, 10, 10, 0.85)`).
+- **Curated Cart Drawer:** Slides from the right with a background of `#161616` and an interior left border of 1px `#262626`. Items are organized via clean divider rules with compact typography, culminating in a pinned subtotal and primary gold checkout CTA.

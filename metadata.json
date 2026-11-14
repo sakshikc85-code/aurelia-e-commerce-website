@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia — Haute Horlogerie & Fashion",
+  "description": "Quiet luxury digital salon for bespoke Swiss horology, evening couture, and private client styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
